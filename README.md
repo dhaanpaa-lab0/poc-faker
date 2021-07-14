@@ -7,4 +7,4 @@ Edit the ```.env.example``` file with your appropriate variables and then copy t
 then:
 Type in ```yarn start``` or ```npm run start```
 
-Enjoy! :)
+Enjoy! :smiley:	
