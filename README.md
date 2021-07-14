@@ -1,5 +1,4 @@
 ## POC Faker
-----
 
 *To Install:*
 
